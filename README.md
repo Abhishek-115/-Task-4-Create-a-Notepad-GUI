@@ -21,16 +21,6 @@ Java Development Kit (JDK 8 or higher). Verify with:
 java -version
 javac -version
 
-How to Run:
-
-Clone the Repository:
-git clone https://github.com/Abhishek-115/notepad-gui.git
-cd notepad-gui
-
-Compile the Code:
-
-javac NotepadGUI.java
-Run the Application:
 
 java NotepadGUI
 
